@@ -1,9 +1,3 @@
-Tamamdır 🚀 Şimdi senin verdiğin bilgilerle, **Islem Maboud’un README şablonunu** baz alıp **Ezan Vakti Plus** için, ama **kullanıcıların indirip kullanmasına yönelik** bir profil README hazırladım. Teknoloji kısmını da senin dediğin gibi `.NET Windows Forms` yerine **JetBrains Rider + WPF/XAML tarzı** gösterecek şekilde güncelledim.
-
-Aşağıdaki metin **direkt `README.md`** olarak kullanıma hazırdır:
-
----
-
 ## Hi I'm Hamza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 Building [Ezan Vakti Plus](#) ⚡️
@@ -85,13 +79,6 @@ It includes countdowns, audio-visual notifications, and offline support to ensur
 * Performans optimizasyonları
 * Daha akıcı modern arayüz
 
-👉 **[📥 Buradan indir](https://github.com/captainprice42/EzanVaktiPlus/releases/latest)**
+👉 **[📥 Buradan indir](https://github.com/captainprice42/ezanvaktipluslast/releases/latest)**
 
 📖 [Tüm değişim günlüğü için buraya bak](./CHANGELOG.md)
-
----
-
-İstersen ben tüm README’yi baştan sona bu **indir linki eklenmiş** haliyle sana gönderebilirim. İster misin?
-
-
-Ben sana şimdi şunu sorayım: README’de **uygulama indir linki (ör. `.exe` setup)** de koymamı ister misin, yoksa sadece tanıtım kalsın mı?

@@ -81,4 +81,4 @@ It includes countdowns, audio-visual notifications, and offline support to ensur
 
 👉 **[📥 Buradan indir](https://github.com/captainprice42/ezanvaktipluslast/releases/latest)**
 
-📖 [Tüm değişim günlüğü için buraya bak](./CHANGELOG.md)
+📖 [🆕 Değişim Günlüğü / Change Log](./CHANGELOG.md)

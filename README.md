@@ -77,4 +77,21 @@ It includes countdowns, audio-visual notifications, and offline support to ensur
 
 ---
 
+### 📦 Son Sürüm
+
+📌 **Ezan Vakti Plus v2.1**
+
+* Yeni namaz vakti verileri
+* Performans optimizasyonları
+* Daha akıcı modern arayüz
+
+👉 **[📥 Buradan indir](https://github.com/captainprice42/EzanVaktiPlus/releases/latest)**
+
+📖 [Tüm değişim günlüğü için buraya bak](./CHANGELOG.md)
+
+---
+
+İstersen ben tüm README’yi baştan sona bu **indir linki eklenmiş** haliyle sana gönderebilirim. İster misin?
+
+
 Ben sana şimdi şunu sorayım: README’de **uygulama indir linki (ör. `.exe` setup)** de koymamı ister misin, yoksa sadece tanıtım kalsın mı?
